@@ -1,0 +1,11 @@
+Disaster Relief Resource Management CRM
+1.	Problem Statement
+During disasters such as floods, earthquakes, or cyclones, relief organizations often face difficulties in tracking donations, allocating resources, and coordinating volunteers. The lack of real-time visibility leads to inefficiencies and delays in reaching affected communities.
+2.	Project Overview
+The proposed Salesforce CRM solution will manage relief resource donations, track inventory, assign volunteers, and monitor beneficiary distribution. It will provide real-time dashboards for NGOs, government agencies, and donors to ensure transparency and accountability during disaster response.
+3.	Objectives
+-	Improve Resource Management: Track donations and inventory effectively.
+-	Automate Allocation: Assign resources and volunteers based on priority needs.
+-	Provide Real-Time Reporting: Show live dashboards of aid distribution.
+-	Ensure Transparency: Keep donors, NGOs, and government updated.
+-	Enhance Relief Efficiency: Reduce delays and ensure resources reach the right beneficiaries.
